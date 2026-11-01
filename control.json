@@ -1,5 +1,10 @@
 {
   "schemaVersion": 1,
   "revokeTrustedSessionsRevision": 0,
-  "announcement": null
+  "announcement": {
+    "id": "2026-11-01-test",
+    "title": "测试公告",
+    "message": "这是一条测试公告，用于验证灵悦的 GitHub 公告功能。看到这条消息说明公告推送正常，可点击“知道了”关闭。",
+    "level": "info"
+  }
 }
